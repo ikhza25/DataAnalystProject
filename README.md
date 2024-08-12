@@ -1,4 +1,4 @@
-![Header](./docs/dairyIndustry.jpeg)
+![Header](./docs/dairyIndustry.jpeg alt="Header" width="600")
 
 ## About
 
