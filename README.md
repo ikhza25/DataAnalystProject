@@ -1,4 +1,4 @@
-![Header](./docs/dairyIndustry.jpeg alt="Header" width="600")
+<img src="./docs/dairyIndustry.jpeg" alt="Header" width="600"/>
 
 ## About
 
